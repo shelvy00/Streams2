@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "title": "My Stream",
+      "description": "This is a great stream",
+      "id": 2
+    },
+    {
+      "title": "I created this stream",
+      "description": "and this was made by me",
+      "userId": "115566852655357237499",
+      "id": 12
+    },
+    {
+      "title": "test update",
+      "description": "this is a nav test update",
+      "userId": "115566852655357237499",
+      "id": 13
+    },
+    {
+      "title": "Reuse",
+      "description": "Stream create",
+      "userId": "115566852655357237499",
+      "id": 14
+    }
+  ]
+}
